@@ -27,7 +27,7 @@ We can add this component to any entity.
 ## 4 Complete the renderer debug menu (material parameters support)
 We added all the numeric parameters of a material to the debug menu.
 
-![shot scene](readme_content/addComponent.png)
+![shot scene](readme_content/materials.png)
 
 ## 5 Add script logic on console editor
 We added 2 comands tp the console:
