@@ -1,0 +1,275 @@
+{
+  "name": "scene_name",
+  "entities": [
+    {
+      "name": "Box001",
+      "transform": {
+        "translation": [
+          3.951509952545166,
+          -22.763399124145509,
+          -6.37870979309082
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "collider": {
+        "type": "box",
+        "group": "All",
+        "mask": "",
+        "trigger": false,
+        "dynamic": false,
+        "controller": false,
+        "gravity": false
+      },
+      "rotator": {
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "speed": 1.0
+      },
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "name": "Box002",
+      "transform": {
+        "translation": [
+          87.7770004272461,
+          -17.702899932861329,
+          -125.6709976196289
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "render": {
+        "mesh": "data/assets/meshes/Box002.mesh",
+        "materials": [
+          "data/assets/materials/mtl_default.mtl"
+        ]
+      },
+      "collider": {
+        "type": "box",
+        "group": "All",
+        "mask": "",
+        "trigger": false,
+        "dynamic": false,
+        "controller": false,
+        "gravity": false
+      },
+      "rotator": {
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "speed": 1.0
+      },
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "name": "Box003",
+      "transform": {
+        "translation": [
+          -32.166099548339847,
+          -2.5683701210255096E-7,
+          -5.875760078430176
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "render": {
+        "mesh": "data/assets/meshes/Box003.mesh",
+        "materials": [
+          "data/assets/materials/mtl_default.mtl"
+        ]
+      },
+      "collider": {
+        "type": "box",
+        "group": "All",
+        "mask": "",
+        "trigger": false,
+        "dynamic": false,
+        "controller": false,
+        "gravity": false
+      },
+      "rotator": {
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "speed": 1.0
+      },
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "name": "Box004",
+      "transform": {
+        "translation": [
+          -5.4182000160217289,
+          -14.160300254821778,
+          56.2224006652832
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.12995299696922303
+        ],
+        "scale": [
+          0.12995299696922303,
+          0.12995299696922303,
+          0.12995299696922303
+        ]
+      },
+      "render": {
+        "mesh": "data/assets/meshes/Box004.mesh",
+        "materials": [
+          "data/assets/materials/mtl_default.mtl"
+        ]
+      },
+      "collider": {
+        "type": "box",
+        "group": "All",
+        "mask": "",
+        "trigger": false,
+        "dynamic": false,
+        "controller": false,
+        "gravity": false
+      },
+      "rotator": {
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "speed": 1.0
+      },
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "name": "Box005",
+      "transform": {
+        "translation": [
+          55.21839904785156,
+          -17.744199752807618,
+          -19.099700927734376
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "render": {
+        "mesh": "data/assets/meshes/Box005.mesh",
+        "materials": [
+          "data/assets/materials/mtl_default.mtl"
+        ]
+      },
+      "collider": {
+        "type": "box",
+        "group": "All",
+        "mask": "",
+        "trigger": false,
+        "dynamic": false,
+        "controller": false,
+        "gravity": false
+      },
+      "rotator": {
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "speed": 1.0
+      },
+      "tags": [
+        "default"
+      ]
+    },
+    {
+      "name": "Box006",
+      "transform": {
+        "translation": [
+          11.222999572753907,
+          -13.982099533081055,
+          56.2224006652832
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.12995299696922303
+        ],
+        "scale": [
+          0.12995299696922303,
+          0.12995299696922303,
+          0.12995299696922303
+        ]
+      },
+      "render": {
+        "mesh": "data/assets/meshes/Box006.mesh",
+        "materials": [
+          "data/assets/materials/mtl_default.mtl"
+        ]
+      },
+      "collider": {
+        "type": "box",
+        "group": "All",
+        "mask": "",
+        "trigger": false,
+        "dynamic": false,
+        "controller": false,
+        "gravity": false
+      },
+      "rotator": {
+        "axis": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "speed": 1.0
+      },
+      "tags": [
+        "default"
+      ]
+    }
+  ]
+}
